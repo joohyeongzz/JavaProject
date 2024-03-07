@@ -10,7 +10,7 @@ public class A05_typeCasting {
 		// 일반적으로 큰 타입을 작은 타입에 넣으면 에러가 발생한다.
 	//	int i = f;
 		// int i = a;
-		
+		  
 		// 타입 캐스팅을 통해서 값을 억지로 넣어 줄 수 있음.
 		// 다만, 타입 캐스팅을 하면 값이 손실이 일어날 수 있음.
 		int i = (int)f;
@@ -48,7 +48,8 @@ public class A05_typeCasting {
         System.out.println((char)('A'+3));
         System.out.println('A' > 10);
         
-        // 더 큰 타입과 연산을 하게 되면, 자동적으로 큰 타입으로 변환이 일어남.
+        // 더 큰 타입과 연산을 하게 되면, 자동적으로 
+        큰 타입으로 변환이 일어남.
         double d1 = 1.234;
         int i1 = 10;
         System.out.println('A'+i1);
