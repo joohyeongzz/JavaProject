@@ -71,6 +71,7 @@ public class A01_HelloWorld {
 	    
 	    System.out.println(10.10011); // 소수는 실수형
 
-	}
+	    
+ }
 
 }
