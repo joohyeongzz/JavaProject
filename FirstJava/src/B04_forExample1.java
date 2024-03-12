@@ -19,6 +19,7 @@ public class B04_forExample1 {
 			}
 		System.out.println();
 		
+		
 		// 초기값과 증가값의 위치는 변경이 가능합니다. (단, 보기 좋지는 않음)
 		
 		int i = 0;
